@@ -5,5 +5,7 @@
 
 3. Here is the link of the site : https://hasinaakhter.github.io/agoodlifeguideUp/.
 4. Enjoy reading information provided in this site and STAY HEALTHY
-5. The goal of the site "Healthy Eating, Healthy Living for a Healthier you".
+5. The message of the site "Healthy Eating, Healthy Living for a Healthier you"
+
+PS: a PHP contact form was attached as a subscription form to this site. However at this moment, I am not using any hosting account, so this subscription is not going to work.
 
